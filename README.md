@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liviaerxin&column=8&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=liviaerxin&column=8&theme=onedark)
 
 <!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaerxin&hide=ipynb,html,css&layout=compact&theme=onedark)
  -->
