@@ -8,6 +8,9 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liviaerxin&show_icons=true&theme=radical)
  -->
  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liviaerxin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liviaerxin&theme=dark)
+
 <!--
 **liviaerxin/liviaerxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
