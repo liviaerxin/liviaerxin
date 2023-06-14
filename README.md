@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liviaerxin&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liviaerxin&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/liviaerxin?template=classic&base.community=0&gists=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&gists=false&stackoverflow=false&stackoverflow.user=4331167&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/liviaerxin?template=classic&base.community=0&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&gists=false&config.timezone=Asia%2FShanghai)
 
 <!--
 **liviaerxin/liviaerxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
