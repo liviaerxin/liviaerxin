@@ -10,7 +10,9 @@
 
 [![Codewars](https://github.r2v.ch/codewars?user=liviaerxin&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/liviaerxin)
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liviaerxin&theme=dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liviaerxin&theme=dark)
+ -->
+ 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liviaerxin&theme=dark) 
  -->
 
